@@ -1,0 +1,18 @@
+.ui.inverted.vertical.segment {
+  background-color: #000000;
+  color: #000000;
+}
+
+.ui.inverted.header {
+  color: #030303;
+}
+
+.ui.inverted.link.list .item,
+.ui.inverted.link.list .item a:not(.ui),
+.ui.inverted.link.list a.item {
+  color: rgb(0, 0, 0);
+}
+
+.ui.inverted.header {
+  color: #0e0e0e;
+}

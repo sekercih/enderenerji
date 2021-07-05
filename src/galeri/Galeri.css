@@ -1,0 +1,7 @@
+.galeri {
+  display: block;
+  justify-content: space-evenly;
+}
+Image{
+ box-shadow: black;
+}
