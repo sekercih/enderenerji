@@ -7,7 +7,7 @@ import {
   Col,
   Row,
 } from "react-bootstrap";
-import { Icon } from "semantic-ui-react";
+//import { Icon } from "semantic-ui-react";
 import Gold01 from "../images/card/gold.jpg";
 import Platinum01 from "../images/card/platinum.jpg";
 import Silver01 from "../images/card/silver.jpg";

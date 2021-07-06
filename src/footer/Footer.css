@@ -4,15 +4,15 @@
 }
 
 .ui.inverted.header {
-  color: #030303;
+  color: #eeeaea;
 }
 
 .ui.inverted.link.list .item,
 .ui.inverted.link.list .item a:not(.ui),
 .ui.inverted.link.list a.item {
-  color: rgb(0, 0, 0);
+  color: rgb(238, 231, 231);
 }
 
 .ui.inverted.header {
-  color: #0e0e0e;
+  color: #d6cfcf;
 }

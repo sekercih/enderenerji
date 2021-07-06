@@ -3,7 +3,7 @@ import Banner1 from "../images/carousel/1.jpg";
 import Banner2 from "../images/carousel/2.jpg";
 import Banner3 from "../images/carousel/3.jpg";
 //import Banner4 from "../images/carousel/4.jpg";
-import { Carousel, Container } from "react-bootstrap";
+import { Carousel } from "react-bootstrap";
 import "./Banner.css";
 const images = [
   {
