@@ -31,15 +31,15 @@ const Galeri = () => {
 const itemData = [
   {
     img: G1,
-    title: "Breakfast",
+    title: "Ev",
   },
   {
     img: G2,
-    title: "Burger",
+    title: "Tarla",
   },
   {
     img: G3,
-    title: "Camera",
+    title: "Veranda",
   },
 ];
 
